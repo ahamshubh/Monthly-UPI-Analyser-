@@ -1,0 +1,15 @@
+Date,Type,Description,Amount
+2025-08-01,Credit,Salary Credited,50000
+2025-08-02,Debit,Zomato Order,1200
+2025-08-03,Debit,Amazon Shopping,2500
+2025-08-04,Debit,Rent Payment,15000
+2025-08-05,Debit,Airtel Recharge,399
+2025-08-06,Debit,Electricity Bill,1800
+2025-08-07,Debit,Water Bill,600
+2025-08-08,Debit,BigBasket Grocery,2200
+2025-08-09,Debit,Dunzo Daily Needs,750
+2025-08-10,Credit,Travel Allowance,5000
+2025-08-11,Credit,Google Pay Cashback,150
+2025-08-12,Credit,UPI Rewards,200
+2025-08-13,Debit,Misc Expense,900
+2025-08-14,Credit,Misc Credit from Friend,1000
